@@ -1,0 +1,4 @@
+description: "Basic C++ Class"
+fields:
+  - name: class_name
+    default: "ExampleClass"

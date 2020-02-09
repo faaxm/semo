@@ -1,0 +1,4 @@
+description: A basic top-level CMake project file and folder structure
+fields:
+  - name: lib_name
+    default: MyLib

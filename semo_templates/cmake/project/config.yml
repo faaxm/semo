@@ -1,0 +1,10 @@
+description: A basic top-level CMake project file and folder structure
+fields:
+  - name: project_name
+    default: MyProject
+  - name: min_cmake_version
+    default: 3.16
+  - name: languages
+    default: CXX
+  - name: cxx_standard
+    description: Leave empty to not specify the CXX standard in the CMakeLists.txt file. Can be "14", "17", ...
